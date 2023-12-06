@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Ananya</h1>
 <h3 align="center">a passionate CS student from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnanyaMJha1&label=Profile%20views&color=0e75b6&style=flat" alt="AnanyaMJha1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ananya-Jha1208&label=Profile%20views&color=0e75b6&style=flat" alt="Ananya-Jha1208" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnanyaMJha1" alt="AnanyaMJha1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ananya-Jha1208" alt="Ananya-Jha1208" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/AnanyaMJha1" target="blank"><img src="https://img.shields.io/twitter/follow/AnanyaMJha1?logo=twitter&style=for-the-badge" alt="AnanyaMJha1" /></a> </p>
 
