@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashayk18" alt="aashayk18" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/Ananya" target="blank"><img src="https://img.shields.io/twitter/follow/aashayk18?logo=twitter&style=for-the-badge" alt="aashayk18" /></a> </p>
+
 - 🔭 I’m currently working on **a complete smart agriculture system**
 
 - 🌱 I’m currently learning **web development**
